@@ -20,7 +20,7 @@ class _HomePageState extends State<HomePage> {
         temperatureOutside: 29,
         asset: 'living_room.jpg'),
     RoomInfo(
-        bombardier: 10,
+        temperatureInside: 10,
         humidity: 75,
         temperatureOutside: 31,
         asset: 'bathroom.jpg'),
