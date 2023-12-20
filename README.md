@@ -12,3 +12,5 @@ Ai pe net "UI" ca un site de la Flutter unde ai doar chestii de "UI" + repo pe G
 Esti curios de anumite kkt-uri de chestii interesante in Flutter ai Yt Channel-ul asta -> *https://www.youtube.com/@FlutterMapp/videos*
 
 Si apropo, pe tine te intereseaza doar Folder-ul *lib* din *Flutter_test/test/lib* cum ar fi unde ai kkt-urile de fisiere in format .dart
+
+Daca primesti eroare de "pubspec.yaml not found" bagi repede in terminal *cd Flutter_test/test* si dupa dai din nou *flutter pub get*
