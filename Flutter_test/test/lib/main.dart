@@ -22,3 +22,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+//flutter run -d web-server  to run on brave or any browser if it is not shown on Devices down there
