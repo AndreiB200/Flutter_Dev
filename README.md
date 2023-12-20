@@ -1,5 +1,7 @@
 Descarci de pe net flutter-ul cu .zip si dupa ii dai install cu un tutorial da pa net. Bagi repede un *flutter doctor*.
 
+Sa nu uiti sa bagi Extensia de Flutter in Visual Studio Code
+
 Daca vrei sa incarci toate componentele si sa ruleze aplicatia SmartHome, pornesti terminalul si inserezi -> *flutter pub get*
 
 Tu oricum folosesti ca browser Edge ceea ce este deja preinstalat si ii dai prima oara build in ala. In caz de esti curios sa vezi cu Huawei ai pa net instalarea de Emulator Android SDK si dupa conectare la Flutter.
